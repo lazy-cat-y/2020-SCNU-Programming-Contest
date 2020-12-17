@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/AlgorithmCompetition/20201217competition/F.cpp
+iostream
+-
+algorithm
+-
+
+D:/AlgorithmCompetition/20201217competition/G.cpp
+
